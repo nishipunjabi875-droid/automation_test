@@ -1,0 +1,1118 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - link "Furniture" [ref=e9] [cursor=pointer]:
+          - /url: https://www.woodenstreet.com/
+        - link "Home Interiors" [ref=e11] [cursor=pointer]:
+          - /url: https://www.woodenstreet.com/home-interiors
+        - link "Bulk Order" [ref=e13] [cursor=pointer]:
+          - /url: https://www.woodenstreet.com/bulk-orders
+      - generic [ref=e14]:
+        - link "+91-9314444747" [ref=e16] [cursor=pointer]:
+          - /url: tel:+91-9314444747
+          - img [ref=e17]
+          - text: +91-9314444747
+        - link "Become a Franchise" [ref=e21] [cursor=pointer]:
+          - /url: https://www.woodenstreet.com/furniture-franchise
+          - img [ref=e22]
+          - text: Become a Franchise
+        - link "Track Order" [ref=e26] [cursor=pointer]:
+          - /url: https://www.woodenstreet.com/track-order-by-email
+          - img [ref=e27]
+          - text: Track Order
+        - link "Help Center" [ref=e37] [cursor=pointer]:
+          - /url: https://www.woodenstreet.com/help-center
+          - img [ref=e38]
+          - text: Help Center
+    - banner [ref=e42]:
+      - generic [ref=e43]:
+        - generic [ref=e45]:
+          - link "Home Furniture Online" [ref=e47] [cursor=pointer]:
+            - /url: /
+            - img "Home Furniture Online" [ref=e48]
+          - generic [ref=e51] [cursor=pointer]:
+            - textbox "Search Products, Color & More..." [ref=e53]
+            - button "Search" [ref=e54]:
+              - img [ref=e55]
+          - list [ref=e59]:
+            - listitem [ref=e60]:
+              - link "Stores" [ref=e61] [cursor=pointer]:
+                - /url: https://www.woodenstreet.com/offline-furniture-store
+                - img [ref=e63]
+                - paragraph [ref=e69]: Stores
+            - listitem [ref=e70]:
+              - generic [ref=e71] [cursor=pointer]:
+                - img [ref=e73]
+                - paragraph [ref=e76]: Profile
+            - listitem [ref=e77]:
+              - generic [ref=e78] [cursor=pointer]:
+                - img [ref=e80]
+                - paragraph [ref=e83]: Wishlist (0)
+            - listitem [ref=e84]:
+              - link "Cart (0)" [ref=e85] [cursor=pointer]:
+                - /url: https://www.woodenstreet.com/cart
+                - img [ref=e87]
+                - paragraph [ref=e90]: Cart (0)
+        - list [ref=e93]:
+          - listitem [ref=e94]:
+            - link "Sofas" [ref=e95] [cursor=pointer]:
+              - /url: https://www.woodenstreet.com/sofas
+              - paragraph [ref=e96]: Sofas
+          - listitem [ref=e97]:
+            - link "Living" [ref=e98] [cursor=pointer]:
+              - /url: https://www.woodenstreet.com/living-room-furniture
+              - paragraph [ref=e99]: Living
+          - listitem [ref=e100]:
+            - link "Bedroom" [ref=e101] [cursor=pointer]:
+              - /url: https://www.woodenstreet.com/bedroom-furniture
+              - paragraph [ref=e102]: Bedroom
+          - listitem [ref=e103]:
+            - link "Mattress" [ref=e104] [cursor=pointer]:
+              - /url: https://www.woodenstreet.com/mattress
+              - paragraph [ref=e105]: Mattress
+          - listitem [ref=e106]:
+            - link "Dining" [ref=e107] [cursor=pointer]:
+              - /url: https://www.woodenstreet.com/dining-room-furniture
+              - paragraph [ref=e108]: Dining
+          - listitem [ref=e109]:
+            - link "Storage" [ref=e110] [cursor=pointer]:
+              - /url: https://www.woodenstreet.com/storage-furniture
+              - paragraph [ref=e111]: Storage
+          - listitem [ref=e112]:
+            - link "Study & Office" [ref=e113] [cursor=pointer]:
+              - /url: https://www.woodenstreet.com/study-room-furniture
+              - paragraph [ref=e114]: Study & Office
+          - listitem [ref=e115]:
+            - link "Outdoor" [ref=e116] [cursor=pointer]:
+              - /url: https://www.woodenstreet.com/outdoor-furniture
+              - paragraph [ref=e117]: Outdoor
+          - listitem [ref=e118]:
+            - link "Decor & Furnishing" [ref=e119] [cursor=pointer]:
+              - /url: https://www.woodenstreet.com/home-decors
+              - paragraph [ref=e120]: Decor & Furnishing
+          - listitem [ref=e121]:
+            - paragraph [ref=e123] [cursor=pointer]: Modular Kitchen & Wardrobe
+          - listitem [ref=e124]:
+            - link "WS Luxe" [ref=e125] [cursor=pointer]:
+              - /url: https://www.woodenstreet.com/luxury-furniture
+              - paragraph [ref=e126]: WS Luxe
+    - main [ref=e127]:
+      - generic [ref=e130]:
+        - link "Home" [ref=e131] [cursor=pointer]:
+          - /url: https://www.woodenstreet.com/
+        - generic [ref=e132]: /
+        - generic [ref=e133]:
+          - link "Furniture" [ref=e134] [cursor=pointer]:
+            - /url: https://www.woodenstreet.com/furniture
+          - generic [ref=e135]: /
+        - generic [ref=e136]:
+          - link "Bedroom Furniture" [ref=e137] [cursor=pointer]:
+            - /url: https://www.woodenstreet.com/bedroom-furniture
+          - generic [ref=e138]: /
+        - generic [ref=e140]: Wardrobes
+      - generic [ref=e143]:
+        - generic [ref=e148]:
+          - generic [ref=e149]:
+            - button "Previous Slide" [ref=e150] [cursor=pointer]:
+              - img [ref=e151]
+            - button "Next Slide" [ref=e153] [cursor=pointer]:
+              - img [ref=e154]
+            - generic [ref=e157]:
+              - button "Go to Slide 1" [ref=e158] [cursor=pointer]:
+                - generic [ref=e159]:
+                  - img "Look Image - Riwayat Sheesham Wood Wardrobe with Cane & Brass Accent (Teak Finish)" [ref=e160]
+                  - img [ref=e162]
+                  - img [ref=e169]
+              - button "Go to Slide 2" [ref=e171] [cursor=pointer]:
+                - img "Youtube Thumb Image:- wGTLX0Lc1S8" [ref=e173]
+              - button "Go to Slide 3"
+              - button "Go to Slide 4"
+              - button "Go to Slide 5"
+              - button "Go to Slide 6"
+              - button "Go to Slide 7" [ref=e174] [cursor=pointer]:
+                - img "Product Image 4 - Riwayat Sheesham Wood Wardrobe with Cane & Brass Accent (Teak Finish)" [ref=e175]
+          - navigation "Thumbnail Navigation" [ref=e178] [cursor=pointer]:
+            - button "Go to Slide 1" [pressed] [ref=e179]:
+              - img "Look Image - Riwayat Sheesham Wood Wardrobe with Cane & Brass Accent (Teak Finish)" [ref=e181]
+            - button "Go to Slide 2" [ref=e182]:
+              - img "Youtube Thumb Image:- wGTLX0Lc1S8" [ref=e184]
+            - button "Go to Slide 3" [ref=e185]:
+              - img "Dimension Image 1 - Riwayat Sheesham Wood Wardrobe with Cane & Brass Accent (Teak Finish)" [ref=e187]
+            - button "Go to Slide 4" [ref=e188]:
+              - img "Look Image - Riwayat Sheesham Wood Wardrobe with Cane & Brass Accent (Teak Finish)" [ref=e190]
+            - button "Go to Slide 5" [ref=e191]:
+              - img "Product Image 2 - Riwayat Sheesham Wood Wardrobe with Cane & Brass Accent (Teak Finish)" [ref=e193]
+            - button "Go to Slide 6" [ref=e194]:
+              - img "Product Image 3 - Riwayat Sheesham Wood Wardrobe with Cane & Brass Accent (Teak Finish)" [ref=e196]
+            - button "Go to Slide 7" [ref=e197]:
+              - generic [ref=e198]:
+                - img "Product Image 4 - Riwayat Sheesham Wood Wardrobe with Cane & Brass Accent (Teak Finish)" [ref=e199]
+                - generic [ref=e200]: +2 More
+        - generic [ref=e202]:
+          - generic [ref=e203]:
+            - heading "Riwayat Sheesham Wood Wardrobe with Cane & Brass Accent (Teak Finish)" [level=1] [ref=e204]
+            - paragraph [ref=e208] [cursor=pointer]:
+              - generic "Star 4.8" [ref=e209]:
+                - img [ref=e211]
+                - img [ref=e214]
+                - img [ref=e217]
+                - img [ref=e220]
+                - img [ref=e223]
+              - generic [ref=e226]: (19)
+          - paragraph [ref=e227]
+          - generic [ref=e228]:
+            - generic [ref=e230]:
+              - generic [ref=e231]:
+                - generic [ref=e232]: ₹54,989
+                - generic [ref=e233]: 31% Off
+                - button "i" [ref=e235] [cursor=pointer]
+              - deletion [ref=e236]: MRP ₹79,396
+            - paragraph [ref=e238]:
+              - text: Get Today’s Instant Extra Discount on This Product -
+              - generic [ref=e239] [cursor=pointer]: Unlock Now!
+          - generic [ref=e240]:
+            - generic [ref=e241]: Save Extra with Below Offers
+            - region [ref=e242]:
+              - generic [ref=e244]:
+                - group [ref=e245]:
+                  - generic [ref=e247] [cursor=pointer]:
+                    - paragraph [ref=e250]: Store Discount
+                    - generic [ref=e253]:
+                      - paragraph [ref=e254]: Get Instant Extra Discount*
+                      - paragraph [ref=e255]:
+                        - text: Experience this product in-store and enjoy special additional savings.
+                        - generic [ref=e256]: BOOK A VISIT
+                - group [ref=e257]:
+                  - button "5% Instant Discount arrow down icon on HDFC Bank Credit & Debit Card EMI On HDFC Bank Credit Card EMI" [ref=e259] [cursor=pointer]:
+                    - generic [ref=e260]:
+                      - generic [ref=e261]:
+                        - paragraph [ref=e263]:
+                          - text: 5% Instant Discount
+                          - img "arrow down icon" [ref=e264]
+                        - generic [ref=e265]: on HDFC Bank Credit & Debit Card EMI
+                      - img "On HDFC Bank Credit Card EMI" [ref=e267]
+                - group [ref=e268]:
+                  - button "No Cost EMI arrow down icon Get it for ₹2692/m bank logo +4" [ref=e270] [cursor=pointer]:
+                    - generic [ref=e271]:
+                      - generic [ref=e272]:
+                        - paragraph [ref=e274]:
+                          - text: No Cost EMI
+                          - img "arrow down icon" [ref=e275]
+                        - generic [ref=e276]: Get it for ₹2692/m
+                      - generic [ref=e277]:
+                        - img "bank logo" [ref=e278]
+                        - paragraph [ref=e279]: "+4"
+                - group [ref=e280]:
+                  - button "Easy EMI arrow down icon Get it for ₹2666/m bank logo +7" [ref=e282] [cursor=pointer]:
+                    - generic [ref=e283]:
+                      - generic [ref=e284]:
+                        - paragraph [ref=e286]:
+                          - text: Easy EMI
+                          - img "arrow down icon" [ref=e287]
+                        - generic [ref=e288]: Get it for ₹2666/m
+                      - generic [ref=e289]:
+                        - img "bank logo" [ref=e290]
+                        - paragraph [ref=e291]: "+7"
+              - button "arrow down icon Next slide" [ref=e292] [cursor=pointer]:
+                - img "arrow down icon" [ref=e293]
+                - generic [ref=e294]: Next slide
+          - generic [ref=e295]:
+            - paragraph [ref=e296]:
+              - img [ref=e297]
+              - text: Check delivery & assembly details
+            - generic [ref=e304]:
+              - textbox "Enter Pincode" [ref=e305]
+              - button "CHECK" [ref=e306] [cursor=pointer]
+          - paragraph [ref=e307]
+          - generic [ref=e308]:
+            - generic [ref=e309]:
+              - generic [ref=e310]: "Qty:"
+              - combobox [ref=e311] [cursor=pointer]:
+                - generic: "1"
+                - img [ref=e312]
+              - generic [ref=e314]: ₹54,989 (incl. of all taxes)
+            - button "Add to Cart" [ref=e315] [cursor=pointer]
+          - generic [ref=e316]:
+            - generic [ref=e317]:
+              - img [ref=e319]
+              - paragraph [ref=e326]: Free Delivery & Installation*
+            - generic [ref=e327]:
+              - img [ref=e329]
+              - paragraph [ref=e335]: 36 Month Warranty*
+            - generic [ref=e336]:
+              - img [ref=e338]
+              - paragraph [ref=e343]: Safe & Secure Payment
+          - generic [ref=e344]:
+            - paragraph [ref=e345]: Product Specifications
+            - list [ref=e347]:
+              - listitem [ref=e348]:
+                - generic [ref=e349]: Material
+                - generic [ref=e350]:
+                  - generic [ref=e351]: ":"
+                  - text: Sheesham Wood
+              - listitem [ref=e352]:
+                - generic [ref=e353]: Finish
+                - generic [ref=e354]:
+                  - generic [ref=e355]: ":"
+                  - text: Teak Finish
+              - listitem [ref=e356]:
+                - generic [ref=e357]: Features
+                - generic [ref=e358]:
+                  - generic [ref=e359]: ":"
+                  - text: Premium Solid Wood, Cane Accented Doors, Spacious Drawer Storage, Elegant Brass Knobs, Convenient Hanging Rod, Ground-Free Clearance
+              - listitem [ref=e360]:
+                - generic [ref=e361]: Dimensions (inch)
+                - generic [ref=e362]:
+                  - generic [ref=e363]: ":"
+                  - text: 32 L x 20 W x 78 H
+              - listitem [ref=e364]:
+                - generic [ref=e365]: Dimensions (cm)
+                - generic [ref=e366]:
+                  - generic [ref=e367]: ":"
+                  - text: 81.3 L x 50.8 W x 198.1 H
+              - listitem [ref=e368]:
+                - generic [ref=e369]: Brand
+                - generic [ref=e370]:
+                  - generic [ref=e371]: ":"
+                  - text: Wooden Street
+              - listitem [ref=e372]:
+                - generic [ref=e373]: Mirror
+                - generic [ref=e374]:
+                  - generic [ref=e375]: ":"
+                  - text: Without Mirror
+            - button "More Information" [ref=e376] [cursor=pointer]:
+              - text: More Information
+              - img [ref=e377]
+          - generic [ref=e379]:
+            - paragraph [ref=e380]: Need Help in Buying?
+            - list [ref=e382]:
+              - listitem [ref=e383] [cursor=pointer]:
+                - link "Call Us +91-9314444747" [ref=e384]:
+                  - /url: tel:+91-9314444747
+                  - img [ref=e385]
+                  - generic [ref=e388]:
+                    - text: Call Us
+                    - generic [ref=e389]: +91-9314444747
+              - listitem [ref=e390] [cursor=pointer]:
+                - generic [ref=e391]:
+                  - img [ref=e393]
+                  - generic [ref=e396]:
+                    - text: Live
+                    - generic [ref=e397]: Product Demo
+      - generic [ref=e398]:
+        - navigation [ref=e400]:
+          - generic [ref=e401]:
+            - generic [ref=e402]:
+              - paragraph [ref=e403]:
+                - button "Image Gallery" [ref=e404] [cursor=pointer]
+              - paragraph [ref=e405]:
+                - button "Product Information" [ref=e406] [cursor=pointer]
+              - paragraph [ref=e407]:
+                - button "Reviews 4.8 ★" [ref=e408] [cursor=pointer]:
+                  - text: Reviews
+                  - generic [ref=e409]: 4.8 ★
+              - paragraph [ref=e410]:
+                - button "Why Wooden Street" [ref=e411] [cursor=pointer]
+            - generic:
+              - button "Add to Cart"
+        - generic [ref=e414]:
+          - paragraph [ref=e415]: Looks Gallery
+          - generic [ref=e416]:
+            - img "Look Image - Riwayat Sheesham Wood Wardrobe with Cane & Brass Accent (Teak Finish)" [ref=e417]
+            - img "Look Image - Riwayat Sheesham Wood Wardrobe with Cane & Brass Accent (Teak Finish)" [ref=e418]
+            - img "Product Image 2 - Riwayat Sheesham Wood Wardrobe with Cane & Brass Accent (Teak Finish)" [ref=e419]
+            - img "Product Image 3 - Riwayat Sheesham Wood Wardrobe with Cane & Brass Accent (Teak Finish)" [ref=e420]
+            - img "Product Image 4 - Riwayat Sheesham Wood Wardrobe with Cane & Brass Accent (Teak Finish)" [ref=e421]
+            - img "Product Image 5 - Riwayat Sheesham Wood Wardrobe with Cane & Brass Accent (Teak Finish)" [ref=e422]
+          - generic [ref=e423]:
+            - generic [ref=e424]: Showing 6 of 7 images
+            - button "View More" [ref=e426] [cursor=pointer]
+        - generic [ref=e427]:
+          - generic [ref=e429]:
+            - heading "Product Information" [level=2] [ref=e430]
+            - generic [ref=e431]:
+              - heading "Product Specifications" [level=3] [ref=e432]
+              - list [ref=e435]:
+                - listitem [ref=e436]:
+                  - generic [ref=e437]: Material
+                  - generic [ref=e438]:
+                    - generic [ref=e439]: ":"
+                    - text: Sheesham Wood
+                - listitem [ref=e440]:
+                  - generic [ref=e441]: Finish
+                  - generic [ref=e442]:
+                    - generic [ref=e443]: ":"
+                    - text: Teak Finish
+                - listitem [ref=e444]:
+                  - generic [ref=e445]: Features
+                  - generic [ref=e446]:
+                    - generic [ref=e447]: ":"
+                    - text: Premium Solid Wood, Cane Accented Doors, Spacious Drawer Storage, Elegant Brass Knobs, Convenient Hanging Rod, Ground-Free Clearance
+                - listitem [ref=e448]:
+                  - generic [ref=e449]: Dimensions (inch)
+                  - generic [ref=e450]:
+                    - generic [ref=e451]: ":"
+                    - text: 32 L x 20 W x 78 H
+                - listitem [ref=e452]:
+                  - generic [ref=e453]: Dimensions (cm)
+                  - generic [ref=e454]:
+                    - generic [ref=e455]: ":"
+                    - text: 81.3 L x 50.8 W x 198.1 H
+                - listitem [ref=e456]:
+                  - generic [ref=e457]: Brand
+                  - generic [ref=e458]:
+                    - generic [ref=e459]: ":"
+                    - text: Wooden Street
+                - listitem [ref=e460]:
+                  - generic [ref=e461]: Mirror
+                  - generic [ref=e462]:
+                    - generic [ref=e463]: ":"
+                    - text: Without Mirror
+                - listitem [ref=e464]:
+                  - generic [ref=e465]: Lock
+                  - generic [ref=e466]:
+                    - generic [ref=e467]: ":"
+                    - text: Without Lock
+                - listitem [ref=e468]:
+                  - generic [ref=e469]: Number Of Doors
+                  - generic [ref=e470]:
+                    - generic [ref=e471]: ":"
+                    - text: 2 Door
+                - listitem [ref=e472]:
+                  - generic [ref=e473]: Sku
+                  - generic [ref=e474]:
+                    - generic [ref=e475]: ":"
+                    - text: WSWARDROBE92661
+                - listitem [ref=e476]:
+                  - generic [ref=e477]: Delivery Condition
+                  - generic [ref=e478]:
+                    - generic [ref=e479]: ":"
+                    - text: Pre-assembled
+            - generic [ref=e480]:
+              - heading "Product Overview" [level=3] [ref=e481]
+              - generic [ref=e482]:
+                - paragraph [ref=e483]: The Riwayat Sheesham Wood Wardrobe brings to you a beautifully balanced mix of tradition, workmanship, as well as modern utility. Fabricated from premium-grade Sheesham wood and finished in a warm Teak tone, this 2-door wardrobe stands out with its handwoven cane panels and elegant brass knobs. Its design is carefully planned so as to offer you a spacious layout, with a full-size drawer, enough shelving, and a smooth hanging rod, ensuring that your everyday essentials stay in a neatly arranged manner. With a ground-free clearance that gives a touch of lightness and ease in cleaning, the Riwayat wardrobe is best for those who value both aesthetics along with usefulness. Free from mirrors and locks, it maintains a clean, simple, as well as classic charm suitable for any interior style.
+                - heading "Key Features" [level=2] [ref=e484]
+                - list [ref=e485]:
+                  - listitem [ref=e486]:
+                    - paragraph [ref=e487]:
+                      - strong [ref=e488]: "Solid Sheesham Wood Craftsmanship:"
+                      - text: Constructed using premium-grade Sheesham wood makes sure that it has high intensive strength, stability, as well as a warm wooden texture. Therefore, it is an ideal addition for long-term home use.
+                  - listitem [ref=e489]:
+                    - paragraph [ref=e490]:
+                      - strong [ref=e491]: "Refined Cane-Accented Doors:"
+                      - text: The handwoven cane panels bring to you an artisanal touch which brings natural elegance along with a beautifully light aesthetic to the wardrobe’s overall design.
+                  - listitem [ref=e492]:
+                    - paragraph [ref=e493]:
+                      - strong [ref=e494]: "Elegant Brass Knobs:"
+                      - text: The refined brass knobs provide you with a subtle yet striking contrast against the Teak finish, which as a result, brings in a refined accent while ensuring about smooth and comfortable handling.
+                  - listitem [ref=e495]:
+                    - paragraph [ref=e496]:
+                      - strong [ref=e497]: "2-Door Wardrobe with Spacious Drawer:"
+                      - text: Comes with sufficient storage where you can keep all your clothing, linens, and other accessories. The lower drawer provides you with an extra space for organizing smaller essentials with ease.
+                  - listitem [ref=e498]:
+                    - paragraph [ref=e499]:
+                      - strong [ref=e500]: "Convenient Hanging Rod:"
+                      - text: A sturdy and accessible hanging section keeps your garments wrinkle-free as well as ready to wear, offering you with better organization for daily and occasional outfits.
+                  - listitem [ref=e501]:
+                    - paragraph [ref=e502]:
+                      - strong [ref=e503]: "Teak Finish for Classic Appeal:"
+                      - text: The smooth Teak Finish uplifts the natural grain of Sheesham wood, thus creating a rich yet welcoming tone that boosts the overall mood of any bedroom decor.
+                  - listitem [ref=e504]:
+                    - paragraph [ref=e505]:
+                      - strong [ref=e506]: "Ground-Free Clearance:"
+                      - text: Elevated from the floor, the wardrobe makes sure about easier cleaning while adding a modern, light visual appeal to your space.
+                  - listitem [ref=e507]:
+                    - paragraph [ref=e508]:
+                      - strong [ref=e509]: "Mirror-Free, Lock-Free Design:"
+                      - text: A simple, clutter-free structure is perfect for those who have a liking for a natural, straightforward, as well as airy aesthetic without additional hardware.
+                  - listitem [ref=e510]:
+                    - paragraph [ref=e511]:
+                      - strong [ref=e512]: "Expert Assembly Included:"
+                      - text: Delivered and installed by trained professionals so as to ensure that you get a smooth, trouble-free setup experience.
+          - generic [ref=e514]:
+            - heading "Product Information" [level=2] [ref=e515]
+            - generic [ref=e516]:
+              - tablist [ref=e517]:
+                - tab "Specifications" [selected] [ref=e518] [cursor=pointer]
+                - tab "Product Overview" [ref=e519] [cursor=pointer]
+                - tab "Care Instructions" [ref=e520] [cursor=pointer]
+                - tab "Terms And Conditions" [ref=e521] [cursor=pointer]
+                - tab "Warranty" [ref=e522] [cursor=pointer]
+                - tab "Merchant Details" [ref=e523] [cursor=pointer]
+                - tab "Disclaimer" [ref=e524] [cursor=pointer]
+                - tab "Delivery & Installation" [ref=e525] [cursor=pointer]
+              - tabpanel "Specifications" [ref=e526]:
+                - generic [ref=e528]:
+                  - list [ref=e529]:
+                    - listitem [ref=e530]:
+                      - generic [ref=e531]: Material
+                      - generic [ref=e532]:
+                        - generic [ref=e533]: ":"
+                        - text: Sheesham Wood
+                    - listitem [ref=e534]:
+                      - generic [ref=e535]: Finish
+                      - generic [ref=e536]:
+                        - generic [ref=e537]: ":"
+                        - text: Teak Finish
+                    - listitem [ref=e538]:
+                      - generic [ref=e539]: Features
+                      - generic [ref=e540]:
+                        - generic [ref=e541]: ":"
+                        - text: Premium Solid Wood, Cane Accented Doors, Spacious Drawer Storage, Elegant Brass Knobs, Convenient Hanging Rod, Ground-Free Clearance
+                    - listitem [ref=e542]:
+                      - generic [ref=e543]: Dimensions (inch)
+                      - generic [ref=e544]:
+                        - generic [ref=e545]: ":"
+                        - text: 32 L x 20 W x 78 H
+                    - listitem [ref=e546]:
+                      - generic [ref=e547]: Dimensions (cm)
+                      - generic [ref=e548]:
+                        - generic [ref=e549]: ":"
+                        - text: 81.3 L x 50.8 W x 198.1 H
+                    - listitem [ref=e550]:
+                      - generic [ref=e551]: Brand
+                      - generic [ref=e552]:
+                        - generic [ref=e553]: ":"
+                        - text: Wooden Street
+                    - listitem [ref=e554]:
+                      - generic [ref=e555]: Mirror
+                      - generic [ref=e556]:
+                        - generic [ref=e557]: ":"
+                        - text: Without Mirror
+                    - listitem [ref=e558]:
+                      - generic [ref=e559]: Lock
+                      - generic [ref=e560]:
+                        - generic [ref=e561]: ":"
+                        - text: Without Lock
+                    - listitem [ref=e562]:
+                      - generic [ref=e563]: Number Of Doors
+                      - generic [ref=e564]:
+                        - generic [ref=e565]: ":"
+                        - text: 2 Door
+                    - listitem [ref=e566]:
+                      - generic [ref=e567]: Sku
+                      - generic [ref=e568]:
+                        - generic [ref=e569]: ":"
+                        - text: WSWARDROBE92661
+                    - listitem [ref=e570]:
+                      - generic [ref=e571]: Delivery Condition
+                      - generic [ref=e572]:
+                        - generic [ref=e573]: ":"
+                        - text: Pre-assembled
+                  - figure [ref=e576]:
+                    - img "Dimension Image 1 - Riwayat Sheesham Wood Wardrobe with Cane & Brass Accent (Teak Finish)" [ref=e577]
+        - generic [ref=e580]:
+          - heading "Customer Reviews" [level=2] [ref=e581]
+          - generic [ref=e582]:
+            - generic [ref=e584]:
+              - generic [ref=e585]:
+                - paragraph [ref=e586]: "4.8"
+                - generic [ref=e587]:
+                  - paragraph [ref=e590] [cursor=pointer]:
+                    - generic "Star 4.8" [ref=e591]:
+                      - img [ref=e593]
+                      - img [ref=e596]
+                      - img [ref=e599]
+                      - img [ref=e602]
+                      - img [ref=e605]
+                    - generic [ref=e608]: (4)
+                  - paragraph [ref=e609]: 19 Ratings & 4 Reviews
+                  - button "Write a Review" [ref=e610] [cursor=pointer]:
+                    - img [ref=e611]
+                    - text: Write a Review
+              - generic [ref=e614]:
+                - generic [ref=e615]:
+                  - generic [ref=e616]:
+                    - text: "5"
+                    - img [ref=e618]
+                  - progressbar "5 star rating" [ref=e620]
+                  - generic [ref=e622]: 75%
+                - generic [ref=e623]:
+                  - generic [ref=e624]:
+                    - text: "4"
+                    - img [ref=e626]
+                  - progressbar "4 star rating" [ref=e628]
+                  - generic [ref=e630]: 25%
+                - generic [ref=e631]:
+                  - generic [ref=e632]:
+                    - text: "3"
+                    - img [ref=e634]
+                  - progressbar "3 star rating" [ref=e636]
+                  - generic [ref=e638]: 0%
+                - generic [ref=e639]:
+                  - generic [ref=e640]:
+                    - text: "2"
+                    - img [ref=e642]
+                  - progressbar "2 star rating" [ref=e644]
+                  - generic [ref=e646]: 0%
+                - generic [ref=e647]:
+                  - generic [ref=e648]:
+                    - text: "1"
+                    - img [ref=e650]
+                  - progressbar "1 star rating" [ref=e652]
+                  - generic [ref=e654]: 0%
+            - generic [ref=e655]:
+              - paragraph [ref=e657]: Reviewed by customers
+              - list [ref=e658]:
+                - listitem [ref=e659]:
+                  - generic [ref=e661]:
+                    - paragraph [ref=e664] [cursor=pointer]:
+                      - generic "Star 5" [ref=e665]:
+                        - img [ref=e667]
+                        - img [ref=e670]
+                        - img [ref=e673]
+                        - img [ref=e676]
+                        - img [ref=e679]
+                      - generic [ref=e681]: (5)
+                    - paragraph [ref=e682]: Very Nice product. Value for money.
+                    - generic [ref=e683]:
+                      - generic [ref=e684]: Aarohi Sharma
+                      - generic [ref=e685]:
+                        - img [ref=e686]
+                        - text: Verified Buyer
+                        - generic [ref=e690]: 14 Oct 2025
+                - listitem [ref=e691]:
+                  - generic [ref=e693]:
+                    - paragraph [ref=e696] [cursor=pointer]:
+                      - generic "Star 4" [ref=e697]:
+                        - img [ref=e699]
+                        - img [ref=e702]
+                        - img [ref=e705]
+                        - img [ref=e708]
+                        - img [ref=e711]
+                      - generic [ref=e713]: (4)
+                    - paragraph [ref=e714]: Yesterday got installed, nice look, value for money go for it , ??
+                    - generic [ref=e715]:
+                      - generic [ref=e716]: Anish Patel
+                      - generic [ref=e717]:
+                        - img [ref=e718]
+                        - text: Verified Buyer
+                        - generic [ref=e722]: 14 Aug 2025
+                - listitem [ref=e723]:
+                  - generic [ref=e725]:
+                    - paragraph [ref=e728] [cursor=pointer]:
+                      - generic "Star 5" [ref=e729]:
+                        - img [ref=e731]
+                        - img [ref=e734]
+                        - img [ref=e737]
+                        - img [ref=e740]
+                        - img [ref=e743]
+                      - generic [ref=e745]: (5)
+                    - paragraph [ref=e746]: Product is really nice
+                    - generic [ref=e747]:
+                      - generic [ref=e748]: Akanksha Gupta
+                      - generic [ref=e749]:
+                        - img [ref=e750]
+                        - text: Verified Buyer
+                        - generic [ref=e754]: 06 Aug 2025
+                - listitem [ref=e755]:
+                  - generic [ref=e757]:
+                    - paragraph [ref=e760] [cursor=pointer]:
+                      - generic "Star 5" [ref=e761]:
+                        - img [ref=e763]
+                        - img [ref=e766]
+                        - img [ref=e769]
+                        - img [ref=e772]
+                        - img [ref=e775]
+                      - generic [ref=e777]: (5)
+                    - paragraph [ref=e778]: Extremely good quality material,Plenty of space to store atleast for 2 people.
+                    - generic [ref=e779]:
+                      - generic [ref=e780]: Adarsh Verma
+                      - generic [ref=e781]:
+                        - img [ref=e782]
+                        - text: Verified Buyer
+                        - generic [ref=e786]: 21 Jul 2025
+        - generic [ref=e788]:
+          - heading "WHY WOODEN STREET ?" [level=3] [ref=e789]
+          - paragraph [ref=e790]: In - house craftsmanship, Premium in quality
+          - generic [ref=e791]:
+            - generic [ref=e792]:
+              - img "Non-VOC, eco-friendly polishes for a smooth, natural, and safe finish." [ref=e795]
+              - img "Built with premium Flexicol and hardware for lasting strength." [ref=e798]
+              - img "Advanced joinery ensures solid, flawless construction." [ref=e801]
+              - img "Thicker wood for extra sturdiness and a premium feel." [ref=e804]
+              - img "Perfectly Joined" [ref=e807]
+              - img "Designed by everyday living" [ref=e810]
+              - img "Sustainable & Responsible" [ref=e813]
+              - img "Finished to perfection" [ref=e816]
+              - img "Made in india" [ref=e819]
+              - img "Trusted , Tested, timesless" [ref=e822]
+            - generic: prev
+            - generic [ref=e823] [cursor=pointer]: next
+      - generic [ref=e825]:
+        - heading "Frequently Asked Questions" [level=2] [ref=e827]
+        - generic [ref=e829]:
+          - generic [ref=e830]:
+            - term [ref=e831]:
+              - generic [ref=e832]:
+                - heading "What are the materials used to manufacture the furniture?" [level=3] [ref=e833] [cursor=pointer]
+                - generic [ref=e834]: +
+            - definition:
+              - generic [ref=e836]: The primary material such as solid wood is used to manufacture the product. In addition to this, other secondary materials such as MDF and Plywood might also be used in the manufacturing process.
+          - generic [ref=e837]:
+            - term [ref=e838]:
+              - generic [ref=e839]:
+                - heading "How do I clean my wooden furniture?" [level=3] [ref=e840] [cursor=pointer]
+                - generic [ref=e841]: +
+            - definition:
+              - generic [ref=e843]: The regular dusting and cleaning of stains and spills with soft cotton cloth is the only process required to maintain the quality of wooden furniture.
+          - generic [ref=e844]:
+            - term [ref=e845]:
+              - generic [ref=e846]:
+                - heading "Which fabric is used in the upholstery of furniture available at WoodenStreet?" [level=3] [ref=e847] [cursor=pointer]
+                - generic [ref=e848]: +
+            - definition:
+              - generic [ref=e850]: We have various types of upholstery material options available which includes velvet, cotton, linen and many more.
+          - generic [ref=e851]:
+            - term [ref=e852]:
+              - generic [ref=e853]:
+                - heading "How do I choose the finish color from your solid wood furniture?" [level=3] [ref=e854] [cursor=pointer]
+                - generic [ref=e855]: +
+            - definition:
+              - generic [ref=e857]: Pick the wood finish color according to the style of your interiors. For instance, if your space is neutral, then try to complement it with the dark color finish such as walnut and vice versa.
+          - generic [ref=e858]:
+            - term [ref=e859]:
+              - generic [ref=e860]:
+                - heading "What is the major difference between hardwood and softwood furniture?" [level=3] [ref=e861] [cursor=pointer]
+                - generic [ref=e862]: +
+            - definition:
+              - generic [ref=e864]: Hardwood furniture is extracted from a broad-leafed tree that make this furniture denser than softwoods.
+          - generic [ref=e865]:
+            - term [ref=e866]:
+              - generic [ref=e867]:
+                - heading "Am I promised a doorstep delivery for my order?" [level=3] [ref=e868] [cursor=pointer]
+                - generic [ref=e869]: +
+            - definition:
+              - generic [ref=e871]: A doorstep delivery can be availed in case of small products and for big products, a service lift is required at your location to accommodate the furniture. If service lift is not available, a ground floor delivery is applicable in case of big units.
+          - generic [ref=e872]:
+            - term [ref=e873]:
+              - generic [ref=e874]:
+                - heading "Is my purchase amount inclusive of all taxes?" [level=3] [ref=e875] [cursor=pointer]
+                - generic [ref=e876]: +
+            - definition:
+              - generic [ref=e878]: Yes, all the offered product prices are inclusive of all the taxes with free delivery and installation.
+          - generic [ref=e879]:
+            - term [ref=e880]:
+              - generic [ref=e881]:
+                - heading "Do I need to submit any documents for receiving my delivery?" [level=3] [ref=e882] [cursor=pointer]
+                - generic [ref=e883]: +
+            - definition:
+              - generic [ref=e885]: No Answer Found
+      - generic [ref=e887]:
+        - heading "Recently Viewed Products" [level=2] [ref=e888]
+        - generic [ref=e891]:
+          - generic [ref=e893]:
+            - link [ref=e894] [cursor=pointer]:
+              - /url: https://www.woodenstreet.com/product/serah-premium-ash-wood-bed-with-cane-velvet-headboard-drawer-storage-modular-bedside-units-king-size-teak-finish
+              - generic [ref=e895]:
+                - figure [ref=e896]:
+                  - img "Serah Premium Ash Wood Bed with Cane & Velvet Headboard, Drawer Storage & 2 Modular Bedside Tables (King Size, Teak Finish)"
+                - img [ref=e898]
+            - generic [ref=e900]:
+              - link "Serah Premium Ash Wood Bed with Cane & Velvet Headboard, Drawer Storage & 2 Modular Bedside Tables (King Size, Teak Finish)" [ref=e901] [cursor=pointer]:
+                - /url: https://www.woodenstreet.com/product/serah-premium-ash-wood-bed-with-cane-velvet-headboard-drawer-storage-modular-bedside-units-king-size-teak-finish
+                - paragraph [ref=e902]: Serah Premium Ash Wood Bed with Cane & Velvet Headboard, Drawer Storage & 2 Modular Bedside Tables (King Size, Teak Finish)
+              - paragraph
+              - link "By Wooden Street" [ref=e903] [cursor=pointer]:
+                - /url: https://www.woodenstreet.com/brands/wooden-street
+              - generic [ref=e904]:
+                - generic [ref=e905]:
+                  - paragraph [ref=e908] [cursor=pointer]:
+                    - generic "Star 4.7" [ref=e909]:
+                      - img [ref=e911]
+                      - img [ref=e914]
+                      - img [ref=e917]
+                      - img [ref=e920]
+                      - img [ref=e923]
+                    - generic [ref=e926]: (42)
+                  - paragraph [ref=e927] [cursor=pointer]:
+                    - img [ref=e929]
+                    - generic [ref=e941]: 3+ Options
+                - generic [ref=e942]:
+                  - generic [ref=e944]: Limited-Time Deal
+                  - generic [ref=e945]:
+                    - generic [ref=e946]: ₹1,09,989
+                    - deletion [ref=e947]: ₹2,12,500
+                    - generic [ref=e948]: 48% Off
+          - generic [ref=e950]:
+            - link [ref=e951] [cursor=pointer]:
+              - /url: https://www.woodenstreet.com/product/windsor-premium-mango-wood-tv-unit-with-fluted-glass-panel-door-cabinets-cane-detailing-teak-finish
+              - generic [ref=e952]:
+                - figure [ref=e953]:
+                  - img "Windsor Premium Mango Wood TV Unit with Fluted Glass Panel Door Cabinets, Cane Detailing (Mango Wood, Teak Finish)"
+                - img [ref=e955]
+            - generic [ref=e957]:
+              - link "Windsor Premium Mango Wood TV Unit with Fluted Glass Panel Door Cabinets, Cane Detailing (Teak Finish)" [ref=e958] [cursor=pointer]:
+                - /url: https://www.woodenstreet.com/product/windsor-premium-mango-wood-tv-unit-with-fluted-glass-panel-door-cabinets-cane-detailing-teak-finish
+                - paragraph [ref=e959]: Windsor Premium Mango Wood TV Unit with Fluted Glass Panel Door Cabinets, Cane Detailing (Teak Finish)
+              - paragraph
+              - link "By Wooden Street" [ref=e960] [cursor=pointer]:
+                - /url: https://www.woodenstreet.com/brands/wooden-street
+              - generic [ref=e961]:
+                - paragraph [ref=e965] [cursor=pointer]:
+                  - generic "Star 4.9" [ref=e966]:
+                    - img [ref=e968]
+                    - img [ref=e971]
+                    - img [ref=e974]
+                    - img [ref=e977]
+                    - img [ref=e980]
+                  - generic [ref=e983]: (49)
+                - generic [ref=e984]:
+                  - generic [ref=e986]: Limited-Time Deal
+                  - generic [ref=e987]:
+                    - generic [ref=e988]: ₹39,999
+                    - deletion [ref=e989]: ₹61,522
+                    - generic [ref=e990]: 35% Off
+          - generic [ref=e992]:
+            - link [ref=e993] [cursor=pointer]:
+              - /url: https://www.woodenstreet.com/product/aritva-teak-wood-6-seater-dining-table-set-with-bench
+              - generic [ref=e994]:
+                - figure [ref=e995]:
+                  - img "buy dining table set, dining table price, 6 seater dining table set, dining table 6 seater,"
+                - img [ref=e997]
+            - generic [ref=e999]:
+              - link "Aritva Teak Wood 6 seater Dining Table Set with Bench (Teak Finish)" [ref=e1000] [cursor=pointer]:
+                - /url: https://www.woodenstreet.com/product/aritva-teak-wood-6-seater-dining-table-set-with-bench
+                - paragraph [ref=e1001]: Aritva Teak Wood 6 seater Dining Table Set with Bench (Teak Finish)
+              - paragraph
+              - link "By Wooden Street" [ref=e1002] [cursor=pointer]:
+                - /url: https://www.woodenstreet.com/brands/wooden-street
+              - generic [ref=e1003]:
+                - paragraph [ref=e1007] [cursor=pointer]:
+                  - generic "Star 4.9" [ref=e1008]:
+                    - img [ref=e1010]
+                    - img [ref=e1013]
+                    - img [ref=e1016]
+                    - img [ref=e1019]
+                    - img [ref=e1022]
+                  - generic [ref=e1025]: (64)
+                - generic [ref=e1027]:
+                  - generic [ref=e1028]: ₹1,49,989
+                  - deletion [ref=e1029]: ₹2,39,999
+                  - generic [ref=e1030]: 38% Off
+          - generic [ref=e1032]:
+            - link [ref=e1033] [cursor=pointer]:
+              - /url: https://www.woodenstreet.com/product/varnik-3-seater-ash-wood-sofa-with-cane-accents-teak-finish-butter-cream
+              - generic [ref=e1034]:
+                - figure [ref=e1035]:
+                  - img "Varnik 3 Seater Ash Wood Sofa with Cane Accents (Teak Finish, Butter Cream)"
+                - img [ref=e1037]
+            - generic [ref=e1039]:
+              - link "Varnik 3 Seater Ash Wood Sofa with Cane Accents (Teak Finish, Butter Cream)" [ref=e1040] [cursor=pointer]:
+                - /url: https://www.woodenstreet.com/product/varnik-3-seater-ash-wood-sofa-with-cane-accents-teak-finish-butter-cream
+                - paragraph [ref=e1041]: Varnik 3 Seater Ash Wood Sofa with Cane Accents (Teak Finish, Butter Cream)
+              - paragraph
+              - link "By Wooden Street" [ref=e1042] [cursor=pointer]:
+                - /url: https://www.woodenstreet.com/brands/wooden-street
+              - generic [ref=e1043]:
+                - paragraph [ref=e1047] [cursor=pointer]:
+                  - generic "Star 4.7" [ref=e1048]:
+                    - img [ref=e1050]
+                    - img [ref=e1053]
+                    - img [ref=e1056]
+                    - img [ref=e1059]
+                    - img [ref=e1062]
+                  - generic [ref=e1065]: (14)
+                - generic [ref=e1066]:
+                  - generic [ref=e1068]: Limited-Time Deal
+                  - generic [ref=e1069]:
+                    - generic [ref=e1070]: ₹53,989
+                    - deletion [ref=e1071]: ₹1,00,300
+                    - generic [ref=e1072]: 46% Off
+          - generic [ref=e1074]:
+            - link [ref=e1075] [cursor=pointer]:
+              - /url: https://www.woodenstreet.com/product/tarika-sheesham-wood-and-cane-4-tier-book-shelf-honey-finish
+              - generic [ref=e1076]:
+                - figure [ref=e1077]:
+                  - img "Tarika Corner Book Shelf | wooden street bookshelf for compact space"
+                - img [ref=e1079]
+            - generic [ref=e1081]:
+              - link "Tarika Sheesham Wood and Cane 4 Tier Corner Book Shelf (Honey Finish)" [ref=e1082] [cursor=pointer]:
+                - /url: https://www.woodenstreet.com/product/tarika-sheesham-wood-and-cane-4-tier-book-shelf-honey-finish
+                - paragraph [ref=e1083]: Tarika Sheesham Wood and Cane 4 Tier Corner Book Shelf (Honey Finish)
+              - paragraph
+              - link "By Wooden Street" [ref=e1084] [cursor=pointer]:
+                - /url: https://www.woodenstreet.com/brands/wooden-street
+              - generic [ref=e1085]:
+                - paragraph [ref=e1089] [cursor=pointer]:
+                  - generic "Star 4.7" [ref=e1090]:
+                    - img [ref=e1092]
+                    - img [ref=e1095]
+                    - img [ref=e1098]
+                    - img [ref=e1101]
+                    - img [ref=e1104]
+                  - generic [ref=e1107]: (66)
+                - generic [ref=e1109]:
+                  - generic [ref=e1110]: ₹26,799
+                  - deletion [ref=e1111]: ₹39,755
+                  - generic [ref=e1112]: 33% Off
+              - generic [ref=e1113]:
+                - img [ref=e1114]
+                - text: Ships in 2 Days
+          - generic [ref=e1127]:
+            - link [ref=e1128] [cursor=pointer]:
+              - /url: https://www.woodenstreet.com/product/amodh-sheesham-wood-bar-cabinet-with-fluted-glass-brass-detailing-teak-finish
+              - generic [ref=e1129]:
+                - figure [ref=e1130]:
+                  - img "Amodh Sheesham Wood Bar Cabinet with Fluted Glass & Brass Detailing (Teak Finish)"
+                - img [ref=e1132]
+            - generic [ref=e1134]:
+              - link "Amodh Sheesham Wood Bar Cabinet with Arched Cane Doors & Brass Handles (Teak Finish)" [ref=e1135] [cursor=pointer]:
+                - /url: https://www.woodenstreet.com/product/amodh-sheesham-wood-bar-cabinet-with-fluted-glass-brass-detailing-teak-finish
+                - paragraph [ref=e1136]: Amodh Sheesham Wood Bar Cabinet with Arched Cane Doors & Brass Handles (Teak Finish)
+              - paragraph
+              - link "By Wooden Street" [ref=e1137] [cursor=pointer]:
+                - /url: https://www.woodenstreet.com/brands/wooden-street
+              - generic [ref=e1138]:
+                - paragraph [ref=e1142] [cursor=pointer]:
+                  - generic "Star 5" [ref=e1143]:
+                    - img [ref=e1145]
+                    - img [ref=e1148]
+                    - img [ref=e1151]
+                    - img [ref=e1154]
+                    - img [ref=e1157]
+                  - generic [ref=e1159]: (15)
+                - generic [ref=e1160]:
+                  - generic [ref=e1162]: Limited-Time Deal
+                  - generic [ref=e1163]:
+                    - generic [ref=e1164]: ₹29,999
+                    - deletion [ref=e1165]: ₹49,982
+                    - generic [ref=e1166]: 40% Off
+          - generic [ref=e1168]:
+            - link [ref=e1169] [cursor=pointer]:
+              - /url: https://www.woodenstreet.com/product/eterna-sheesham-wood-lounge-chair-with-premium-upholstery-cane-detailing-teak-finish
+              - generic [ref=e1170]:
+                - figure [ref=e1171]:
+                  - img "Lounge Chairs for Living Room - Valentina Metal Lounge Chair (Cream Checkered, Black Finish)"
+                - img [ref=e1173]
+            - generic [ref=e1175]:
+              - link "Eterna Sheesham Wood Lounge Chair With Premium Upholstery & Cane Detailing (Teak Finish)" [ref=e1176] [cursor=pointer]:
+                - /url: https://www.woodenstreet.com/product/eterna-sheesham-wood-lounge-chair-with-premium-upholstery-cane-detailing-teak-finish
+                - paragraph [ref=e1177]: Eterna Sheesham Wood Lounge Chair With Premium Upholstery & Cane Detailing (Teak Finish)
+              - paragraph
+              - link "By Wooden Street" [ref=e1178] [cursor=pointer]:
+                - /url: https://www.woodenstreet.com/brands/wooden-street
+              - generic [ref=e1179]:
+                - generic [ref=e1180]:
+                  - paragraph [ref=e1183] [cursor=pointer]:
+                    - generic "Star 4.3" [ref=e1184]:
+                      - img [ref=e1186]
+                      - img [ref=e1189]
+                      - img [ref=e1192]
+                      - img [ref=e1195]
+                      - img [ref=e1198]
+                    - generic [ref=e1200]: (13)
+                  - paragraph [ref=e1201] [cursor=pointer]:
+                    - img [ref=e1203]
+                    - generic [ref=e1215]: 1+ Options
+                - generic [ref=e1216]:
+                  - generic [ref=e1218]: Limited-Time Deal
+                  - generic [ref=e1219]:
+                    - generic [ref=e1220]: ₹29,989
+                    - deletion [ref=e1221]: ₹46,137
+                    - generic [ref=e1222]: 35% Off
+          - generic [ref=e1224]:
+            - link [ref=e1225] [cursor=pointer]:
+              - /url: https://www.woodenstreet.com/product/tarashi-ash-wood-coffee-tables-set-of-2-teak-finish
+              - generic [ref=e1226]:
+                - figure [ref=e1227]:
+                  - img "Tarashi Ash Wood Coffee Tables, Set of 2 (Teak Finish)"
+                - img [ref=e1229]
+            - generic [ref=e1231]:
+              - link "Tarashi Ash Wood Coffee Tables, Set of 2 (Teak Finish)" [ref=e1232] [cursor=pointer]:
+                - /url: https://www.woodenstreet.com/product/tarashi-ash-wood-coffee-tables-set-of-2-teak-finish
+                - paragraph [ref=e1233]: Tarashi Ash Wood Coffee Tables, Set of 2 (Teak Finish)
+              - paragraph
+              - link "By Wooden Street" [ref=e1234] [cursor=pointer]:
+                - /url: https://www.woodenstreet.com/brands/wooden-street
+              - generic [ref=e1235]:
+                - paragraph [ref=e1239] [cursor=pointer]:
+                  - generic "Star 4.7" [ref=e1240]:
+                    - img [ref=e1242]
+                    - img [ref=e1245]
+                    - img [ref=e1248]
+                    - img [ref=e1251]
+                    - img [ref=e1254]
+                  - generic [ref=e1257]: (14)
+                - generic [ref=e1259]:
+                  - generic [ref=e1260]: ₹24,989
+                  - deletion [ref=e1261]: ₹42,500
+                  - generic [ref=e1262]: 41% Off
+      - button "Top":
+        - img
+        - generic: Top
+      - region "Notifications (F8)":
+        - list
+    - generic [ref=e1264]:
+      - link [ref=e1267] [cursor=pointer]:
+        - /url: https://www.woodenstreet.com/media
+      - generic [ref=e1271]:
+        - generic [ref=e1273]:
+          - list [ref=e1275]:
+            - listitem [ref=e1276]:
+              - generic [ref=e1277]: Our Company
+            - listitem [ref=e1278]:
+              - link "About Us" [ref=e1279] [cursor=pointer]:
+                - /url: https://www.woodenstreet.com/about-us
+            - listitem [ref=e1280]:
+              - link "Career" [ref=e1281] [cursor=pointer]:
+                - /url: https://www.woodenstreet.com/careers
+            - listitem [ref=e1282]:
+              - link "Media" [ref=e1283] [cursor=pointer]:
+                - /url: https://www.woodenstreet.com/media
+            - listitem [ref=e1284]:
+              - link "Blog" [ref=e1285] [cursor=pointer]:
+                - /url: https://www.woodenstreet.com/blog/
+            - listitem [ref=e1286]:
+              - link "Our Stores" [ref=e1287] [cursor=pointer]:
+                - /url: https://www.woodenstreet.com/offline-furniture-store
+            - listitem [ref=e1288]:
+              - link "Customer Stories" [ref=e1289] [cursor=pointer]:
+                - /url: https://www.woodenstreet.com/customer-stories
+            - listitem [ref=e1290]:
+              - link "Investor Relations" [ref=e1291] [cursor=pointer]:
+                - /url: https://www.woodenstreet.com/investor-relations
+          - list [ref=e1293]:
+            - listitem [ref=e1294]:
+              - generic [ref=e1295]: Useful Links
+            - listitem [ref=e1296]:
+              - link "Custom Furniture" [ref=e1297] [cursor=pointer]:
+                - /url: https://www.woodenstreet.com/custom-furniture
+            - listitem [ref=e1298]:
+              - link "Hotel Furniture" [ref=e1299] [cursor=pointer]:
+                - /url: https://www.woodenstreet.com/hotel-furniture
+            - listitem [ref=e1300]:
+              - link "Delivery Location" [ref=e1301] [cursor=pointer]:
+                - /url: https://www.woodenstreet.com/locations
+          - list [ref=e1303]:
+            - listitem [ref=e1304]:
+              - generic [ref=e1305]: Shop By Room
+            - listitem [ref=e1306]:
+              - link "Living Room" [ref=e1307] [cursor=pointer]:
+                - /url: https://www.woodenstreet.com/living-room-furniture
+            - listitem [ref=e1308]:
+              - link "Bedroom" [ref=e1309] [cursor=pointer]:
+                - /url: https://www.woodenstreet.com/bedroom-furniture
+            - listitem [ref=e1310]:
+              - link "Dining Room" [ref=e1311] [cursor=pointer]:
+                - /url: https://www.woodenstreet.com/dining-room-furniture
+            - listitem [ref=e1312]:
+              - link "Kids Room" [ref=e1313] [cursor=pointer]:
+                - /url: https://www.woodenstreet.com/kids-furniture
+            - listitem [ref=e1314]:
+              - link "Modular Kitchen Designs" [ref=e1315] [cursor=pointer]:
+                - /url: https://www.woodenstreet.com/modular-kitchen-designs
+          - list [ref=e1317]:
+            - listitem [ref=e1318]:
+              - generic [ref=e1319]: Partners
+            - listitem [ref=e1320]:
+              - link "Become a Franchise" [ref=e1321] [cursor=pointer]:
+                - /url: https://www.woodenstreet.com/furniture-franchise
+            - listitem [ref=e1322]:
+              - link "Sell on WoodenStreet" [ref=e1323] [cursor=pointer]:
+                - /url: https://www.woodenstreet.com/sell-on-woodenstreet
+            - listitem [ref=e1324]:
+              - generic [ref=e1325]: Trusted By
+            - listitem [ref=e1326]:
+              - link "QRO Certified" [ref=e1327] [cursor=pointer]:
+                - /url: https://www.woodenstreet.com/footer/qro.pdf
+            - listitem [ref=e1328]:
+              - link "Ukcert Certified" [ref=e1329] [cursor=pointer]:
+                - /url: https://www.woodenstreet.com/footer/ukcert.pdf
+            - listitem [ref=e1330]:
+              - link "Qro-logo" [ref=e1331] [cursor=pointer]:
+                - /url: https://www.woodenstreet.com/footer/qro.pdf
+                - img "Qro-logo" [ref=e1332]
+            - listitem [ref=e1333]:
+              - link "Ukcert-logo" [ref=e1334] [cursor=pointer]:
+                - /url: https://www.woodenstreet.com/footer/ukcert.pdf
+                - img "Ukcert-logo" [ref=e1335]
+          - generic [ref=e1336]:
+            - list [ref=e1337]:
+              - listitem [ref=e1338]:
+                - generic [ref=e1339]: Need Help
+              - listitem [ref=e1340]:
+                - link "Help Center" [ref=e1341] [cursor=pointer]:
+                  - /url: https://www.woodenstreet.com/help-center
+              - listitem [ref=e1342]:
+                - link "Contact Us" [ref=e1343] [cursor=pointer]:
+                  - /url: https://www.woodenstreet.com/support-form
+              - listitem [ref=e1344]:
+                - link "Track your order" [ref=e1345] [cursor=pointer]:
+                  - /url: https://www.woodenstreet.com/track-order-by-email
+            - button "Ask an Expert" [ref=e1346] [cursor=pointer]
+            - generic [ref=e1347]:
+              - link "Wooden Street Instagram profile" [ref=e1349] [cursor=pointer]:
+                - /url: https://www.instagram.com/woodenstreet/
+                - img "Wooden Street Instagram profile" [ref=e1350]
+              - link "Wooden Street Facebook profile" [ref=e1352] [cursor=pointer]:
+                - /url: https://www.facebook.com/woodenstreet/
+                - img "Wooden Street Facebook profile" [ref=e1353]
+              - link "Wooden Street twitter profile" [ref=e1355] [cursor=pointer]:
+                - /url: https://x.com/Wooden_street
+                - img "Wooden Street twitter profile" [ref=e1356]
+              - link "Wooden Street Pinterest profile" [ref=e1358] [cursor=pointer]:
+                - /url: https://in.pinterest.com/woodenstreet/
+                - img "Wooden Street Pinterest profile" [ref=e1359]
+              - link "Wooden Street Youtube profile" [ref=e1361] [cursor=pointer]:
+                - /url: https://www.youtube.com/c/woodenstreetofficial/
+                - img "Wooden Street Youtube profile" [ref=e1362]
+              - link "Wooden Street linkedin profile" [ref=e1364] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/wooden-street/
+                - img "Wooden Street linkedin profile" [ref=e1365]
+        - generic [ref=e1367]:
+          - paragraph [ref=e1370]:
+            - text: "Delivery Across India : Ahmedabad, Bangalore, Bhopal, Chandigarh, Chennai, Coimbatore, Faridabad, Ghaziabad, Goa, Gurgaon, Hyderabad, Indore, Jaipur and"
+            - link "More Cities" [ref=e1371] [cursor=pointer]:
+              - /url: https://www.woodenstreet.com/locations
+          - generic [ref=e1373]:
+            - paragraph [ref=e1374]: We accept
+            - list [ref=e1375]:
+              - listitem [ref=e1376]:
+                - img "footer" [ref=e1377]
+          - generic [ref=e1379]:
+            - paragraph [ref=e1380]: Download App
+            - list [ref=e1381]:
+              - listitem [ref=e1382]:
+                - link "android" [ref=e1383] [cursor=pointer]:
+                  - /url: https://play.google.com/store/apps/details?id=com.woodenstreet
+                  - img "android" [ref=e1384]
+                - link "ios" [ref=e1385] [cursor=pointer]:
+                  - /url: https://apps.apple.com/in/app/wooden-street/id1162068644?ls=1
+                  - img "ios" [ref=e1386]
+        - generic [ref=e1387]:
+          - generic [ref=e1388]:
+            - link "logo":
+              - /url: /
+              - img "logo"
+            - generic [ref=e1389]:
+              - list [ref=e1390]:
+                - listitem [ref=e1391]:
+                  - link "Terms of Use" [ref=e1392] [cursor=pointer]:
+                    - /url: https://www.woodenstreet.com/terms-of-use
+                - listitem [ref=e1393]:
+                  - link "Security" [ref=e1394] [cursor=pointer]:
+                    - /url: https://www.woodenstreet.com/security-and-privacy
+                - listitem [ref=e1395]:
+                  - link "Return & Refund" [ref=e1396] [cursor=pointer]:
+                    - /url: https://www.woodenstreet.com/return-and-refunds
+                - listitem [ref=e1397]:
+                  - link "Payment Policy" [ref=e1398] [cursor=pointer]:
+                    - /url: https://www.woodenstreet.com/payment-policy
+                - listitem [ref=e1399]:
+                  - link "Grievance Cell" [ref=e1400] [cursor=pointer]:
+                    - /url: https://www.woodenstreet.com/grievance-redressal
+              - paragraph [ref=e1401]: © 2015-2026 Woodenstreet.com. All rights reserved.
+              - paragraph [ref=e1402]: The Woodenstreet Furnitures Private Limited
+          - paragraph [ref=e1405]:
+            - text: Registered Office
+            - text: The Woodenstreet Furniture's Pvt.Ltd.-101-104, Luhadia Tower,
+            - text: Ashok Marg, C Scheme, Jaipur-302001.
+            - text: Corporate Identity Number:U36100RJ2015PTC047992
+  - alert [ref=e1406]
+```
