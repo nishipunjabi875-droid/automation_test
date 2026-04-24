@@ -1,7 +1,6 @@
 const { test, expect } = require('@playwright/test');
 
 test.describe('WoodenStreet Luxury Furniture Validations', () => {
-
     test('Verify product prices on collection page match the product page', async ({ page }) => {
         test.setTimeout(300000); // 5 minutes timeout to ensure we can check multiple products
 

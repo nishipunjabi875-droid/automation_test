@@ -8,6 +8,7 @@ test.describe('WoodenStreet Home Page Validations', () => {
 
         // Navigate to the home page
         const response = await page.goto(homeUrl, { waitUntil: 'domcontentloaded' });
+        
 
         // Verify the page loaded successfully (status 200)
         expect(response.status()).toBe(200);

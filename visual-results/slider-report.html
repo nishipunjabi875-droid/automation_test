@@ -1,0 +1,117 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Clear Visual Comparison</title>
+            <style>
+                body { font-family: sans-serif; text-align: center; background: #f4f4f4; margin: 0; padding: 20px; }
+                h1 { color: #333; }
+                .comparison-container {
+                    position: relative;
+                    width: 80%;
+                    max-width: 1200px;
+                    margin: 20px auto;
+                    border: 2px solid #ccc;
+                    border-radius: 8px;
+                    overflow: hidden;
+                    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+                    background: white;
+                }
+                .comparison-container img {
+                    width: 100%;
+                    display: block;
+                }
+                .img-after {
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    width: 50%; /* Initial slider position */
+                    height: 100%;
+                    overflow: hidden;
+                    border-right: 2px solid #ff4757;
+                }
+                .img-after img {
+                    width: 200%; /* Important: Counteracts the container width */
+                    max-width: none;
+                }
+                .slider {
+                    position: absolute;
+                    top: 0;
+                    bottom: 0;
+                    left: 50%;
+                    width: 4px;
+                    background: #ff4757;
+                    cursor: ew-resize;
+                    z-index: 10;
+                    transform: translateX(-50%);
+                }
+                .slider::before {
+                    content: "↔";
+                    position: absolute;
+                    top: 50%;
+                    left: 50%;
+                    transform: translate(-50%, -50%);
+                    background: #ff4757;
+                    color: white;
+                    border-radius: 50%;
+                    width: 30px;
+                    height: 30px;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    font-weight: bold;
+                    box-shadow: 0 0 5px rgba(0,0,0,0.5);
+                }
+            </style>
+        </head>
+        <body>
+            <h1>📸 Interactive Visual Slider</h1>
+            <p>Slide left and right to clearly see differences between Production and Staging.</p>
+            <p><small>Before = Right Side | After = Left Side</small></p>
+            
+            <div class="comparison-container" id="container">
+                <!-- Base Image (Before) -->
+                <img src="before-state.png" alt="Before">
+                
+                <!-- Overlay Image (After) -->
+                <div class="img-after" id="afterImage">
+                    <img src="after-state.png" alt="After" id="innerAfterImage">
+                </div>
+                
+                <!-- Draggable Slider -->
+                <div class="slider" id="slider"></div>
+            </div>
+
+            <script>
+                const container = document.getElementById('container');
+                const slider = document.getElementById('slider');
+                const afterImage = document.getElementById('afterImage');
+                const innerAfterImage = document.getElementById('innerAfterImage');
+
+                // Adjust inner image width to match the container exactly
+                function updateDimensions() {
+                    innerAfterImage.style.width = container.offsetWidth + 'px';
+                }
+                window.addEventListener('resize', updateDimensions);
+                updateDimensions();
+
+                let isDragging = false;
+                slider.addEventListener('mousedown', () => isDragging = true);
+                window.addEventListener('mouseup', () => isDragging = false);
+                window.addEventListener('mousemove', (e) => {
+                    if (!isDragging) return;
+                    let rect = container.getBoundingClientRect();
+                    let offsetX = e.clientX - rect.left;
+                    if (offsetX < 0) offsetX = 0;
+                    if (offsetX > rect.width) offsetX = rect.width;
+                    
+                    let percentage = (offsetX / rect.width) * 100;
+                    slider.style.left = percentage + '%';
+                    afterImage.style.width = percentage + '%';
+                });
+            </script>
+        </body>
+        </html>
+        
